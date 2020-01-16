@@ -16,7 +16,7 @@ public class Nilaimahasiswa {
      */
     public static void main(String[] args) {
          int bhs_indo=80;
-        int bhs_ingris=75;
+        int bhs_ingris=90;
         double mtk=78.98;
         int agama=90;  
         double total_nilai=bhs_indo+bhs_ingris+mtk+agama;  
